@@ -40,3 +40,19 @@ nav ul li a:hover{
     background-color: #cecf9d2e;
     
 }
+#home{
+    height:100vh;
+    background-color: #f4f4f4;
+}
+#abaut{
+    height:100vh;
+    background-color: #f4f4f4;
+}
+#services{
+    height:100vh;
+    background-color: #f4f4f4;   
+}
+#contac{
+    height:100vh;
+    background-color: #f4f4f4;
+}
